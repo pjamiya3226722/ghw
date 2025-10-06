@@ -1459,3 +1459,5 @@ external tools when available.
 [Contributions](CONTRIBUTING.md) to `ghw` are welcomed! Fork the repo on GitHub
 and submit a pull request with your proposed changes. Or, feel free to log an
 issue for a feature request or bug report.
+
+<!-- Auto-update: 2025-10-06T13:08:36.382034 -->
